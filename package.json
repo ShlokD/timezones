@@ -1,0 +1,19 @@
+{
+  "name": "project-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Shlok Desai",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.4.4",
+    "babel-jest": "^24.7.1"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
